@@ -14,7 +14,8 @@ public class method2 {
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
 
-		methodA();
+		methodA();//必ずメインメソッドから動き始める
+		//コード内でも人にわかりやすく伝えるコミュニケーション能力が必要
 	}
 
 }
